@@ -1,4 +1,3 @@
-# Branding for speakers
+![alt text](ExpertsLive_NORWAY_diap_blue_rgb.png)
 
-> Follow this Repo for more graphical content for you to share and boost it in social media 
-![alt text](logo.png)
+# Branding for speakers
